@@ -1,6 +1,6 @@
 # About-me
 <h1 align="center">Hi 👋, I'm Merin Eldos</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer and a machine learning novice</h3>
 
 - 🔭 I’m currently working on *Machine learning projects*
 
