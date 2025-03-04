@@ -1,10 +1,10 @@
 # About-me
 <h1 align="center">Hi 👋, I'm Merin Eldos</h1>
-<h3 align="center">A passionate frontend developer and a machine learning novice</h3>
+<h3 align="center">AI & ML Enthusiast | Python Developer | Aspiring Full-Stack Developer | MERN Stack</h3>
 
 - 🔭 I’m currently working on *Machine learning projects*
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Agentic AI*
 
 - 👨‍💻 All of my projects are available at [Link](Link)
 
