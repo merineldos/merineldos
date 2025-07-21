@@ -31,6 +31,11 @@
 [![](https://visitcount.itsvg.in/api?id=merineldos&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
+### 🌍 Open Source Contributions
+
+-  Contributed to [public-apis](https://github.com/public-apis/public-apis) – one of the most starred repositories on GitHub (~250k+ stars)
+  -  PR: [Update CONTRIBUTING.md](https://github.com/merineldos/public-apis/pull/1)
+  -  Improved documentation for clarity, grammar, and formatting
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
