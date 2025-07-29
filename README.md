@@ -1,4 +1,4 @@
-# About-me
+
 <h1 align="center">Hi 👋, I'm Merin Eldos</h1>
 <h3 align="center">AI & ML Enthusiast | Python Developer | Aspiring Full-Stack Developer | MERN Stack</h3>
 
@@ -38,4 +38,4 @@
   -  Improved documentation for clarity, grammar, and formatting
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
